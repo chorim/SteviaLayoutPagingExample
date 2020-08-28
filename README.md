@@ -6,5 +6,5 @@ Stevia Layout으로 Paging 구현하기 (Implements paging views using Stevia La
 
 
 ## Requirements
-* Xcode, anyone macOS device 🤔
+* Xcode, any macOS device 🤔
 * Stevia
